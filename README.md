@@ -11,7 +11,7 @@ Welcome to <h2><b>StudySync</b></h2>, a beautiful, responsive, and modern UI des
 - 🎨 Sleek, modern, and clean user interface
 - 🖼️ Stunning hero section with image and bold typography
 - 📱 100% Responsive Design – looks great on all devices
-- 🔘 Stylish buttons with hover effects
+- 🔘 Stylish buttons with hover effects 
 - 🧼 Organized and readable code structure
 
  <h3>🧰 Tech Stack</h3>
